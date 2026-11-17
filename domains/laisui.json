@@ -1,0 +1,12 @@
+{
+  "name": "laisui",
+  "description": "A personal Cloudflare Workers proxy node",
+  "owner": {
+    "username": "1812590288",
+    "email": "1812590288@qq.com"
+  },
+  "records": {
+    "CNAME": "vless-node-01.vless-node-01.workers.dev"
+  },
+  "proxied": false
+}
